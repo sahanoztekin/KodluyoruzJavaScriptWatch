@@ -1,0 +1,32 @@
+.arkaplan{
+background-color: rgb(66, 66, 66);
+
+}
+
+
+.text-center{
+
+    text-align: center;
+    margin: 200px;
+}
+
+.text1{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(255, 136, 0);
+}
+
+.text2 {
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: rgb(255, 136, 0);
+}
+
+.bilgilendirme{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 136, 0);
+
+}

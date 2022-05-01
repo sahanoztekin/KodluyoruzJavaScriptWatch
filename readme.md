@@ -1,0 +1,1 @@
+![ÖdevGörseli](logo/odevreadme.png)
